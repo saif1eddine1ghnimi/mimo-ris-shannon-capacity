@@ -97,7 +97,7 @@ mimo-ris-project/
 
 ```bash
 git clone https://github.com/saif1eddine1ghnimi/mimo-ris-shannon-capacity.git
-cd mimo-ris-project
+cd mimo-ris-shannon-capacity
 pip install -r requirements.txt
 
 # Tests unitaires
