@@ -4,7 +4,7 @@
 de la phase d'une RIS (Reconfigurable Intelligent Surface) pour maximiser
 le SNR reçu.**
 
-> Projet réalisé en Python (NumPy/SciPy/Matplotlib), simulations Monte Carlo,
+> Projet réalisé en Python (NumPy/SciPy/Matplotlib), simulations Monte Carlo.
 
 ---
 
