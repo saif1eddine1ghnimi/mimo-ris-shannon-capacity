@@ -160,7 +160,7 @@ est bien plus faible — ce qui justifie l'intérêt de l'optimisation.
 
 ![Convergence gradient](figures/ris_gradient_convergence.png)
 
-La montée de gradient sur `|h_eq(θ)|²` converge vers la même valeur que
+La montée de gradient sur `|h_eq(θ)|²` converge presque vers la même valeur que
 la solution analytique d'alignement de phase, ce qui valide à la fois
 la dérivation théorique et son implémentation.
 
